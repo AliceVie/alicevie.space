@@ -1,0 +1,7 @@
+# AliceVie's Capsule
+### ⚧ Hello! I am Alice, and I work in Linux SysOps at a large cloud services provider.
+## About This Capsule
+This is a fairly personal space. I'm on Gemini because I miss a smaller, more personal web. Users are more than happy to share every detail of their life publicly, but they do so with the intention of becoming an 'influencer', even average everyday people are encouraged to build a brand presence.
+This is not a location for me to build a brand, or a following, this is a space for me to share my thoughts and if others can relate or enjoy reading them, great! I'll be sharing gamedev projects, thoughts on anything and everything, and even the occasional photo here, so feel free to check back regularly and subscribe to my gemlog feed.
+
+=> gemlog/ 📔 Gemlog

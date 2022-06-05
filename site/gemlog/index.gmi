@@ -1,0 +1,16 @@
+# AliceVie
+### 🙂 Thanks for reading.
+
+## 2022
+
+=> 2022-06-05-falling-back-in-love.gmi 2022-06-05 — Falling Back In Love With Minecraft
+
+
+──────────────────
+
+=> / go home
+
+=> gemini://alicevie.space/gemlog/atom.xml this gemlog has an atom feed at: gemini://alicevie.space/gemlog/atom.xml
+=> https://alicevie.space/gemlog/atom.xml or through the web at: https://alicevie.space/gemlog/atom.xml
+
+=> https://git.sr.ht/~nytpu/gemlog.sh generated with gemlog.sh

@@ -1,0 +1,45 @@
+* {
+  color: #dbabf3;
+  font-family: sans-serif;
+}
+
+html {
+  background-color: #1b0625;
+}
+
+article {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+pre {
+  color: #c5d7fa;
+  font-family: monospace;
+}
+
+h1 {
+  color: white;
+  font-size: 2.3rem;
+  font-weight: bold;
+}
+
+h2, h3 {
+  color: #c5d7fa;
+  font-size: 1.7rem;
+  font-weight: normal;
+}
+
+p, ul, blockquote {
+  margin-left: 1.5rem;
+}
+
+blockquote {
+  border-left: #c5d7fa 5px solid;
+  color: #c5d7fa;
+  padding-left: 2rem;
+  font-style: italic;
+}
+
+details {
+	text-align: center;
+}

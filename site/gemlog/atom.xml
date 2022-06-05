@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>AliceVie's Gemlog</title>
+  <subtitle>A gemlog about everything from movies to tech to recipes</subtitle>
+  <link rel='self' href='gemini://alicevie.space/gemlog/atom.xml'/>
+  <link rel='alternate' href='gemini://alicevie.space/gemlog/index.gmi'/>
+  <updated>2022-06-05T12:33:47-0500</updated>
+  <author>
+    <name>Alice V.</name>
+    <email>alice@alicevie.space</email>
+    <uri>gemini://alicevie.space/</uri>
+  </author>
+  <id>gemini://alicevie.space/gemlog/</id>
+  <generator uri='https://git.sr.ht/~nytpu/gemlog.sh'>gemlog.sh</generator>
+  <rights>© Alice V. - CC BY 4.0</rights>
+
+  <entry>
+    <title>Falling Back In Love With Minecraft</title>
+    <id>gemini://alicevie.space/gemlog/2022-06-05-falling-back-in-love.gmi</id>
+    <link rel='alternate' href='gemini://alicevie.space/gemlog/2022-06-05-falling-back-in-love.gmi'/>
+    <updated>2022-06-05T12:00:00-0500</updated>
+  </entry>
+</feed>
