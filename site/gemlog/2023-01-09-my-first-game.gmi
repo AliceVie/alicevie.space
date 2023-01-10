@@ -8,4 +8,4 @@ My first game is a Pong clone. That's it. I told myself Thursday that I would sh
 
 My first game is playable and public, but still needs work before I'm ready to call it finished. I would like to keep the paddles from traveling offscreen, add some SFX, and some basic VFX as well. I'd also like to add an ability to pause and resume the game. Check it out if you get the chance!
 
-=> https://itch.io/alicevie/superpong SuperPong: My First Game
+=> https://alicevie.itch.io/superpong SuperPong: My First Game
