@@ -1,15 +1,22 @@
 # AliceVie's Capsule
-### ⚧ Hello! I am Alice, and I work in Linux SysOps at a large cloud services provider.
+### ⚧ Hello! I am Alice, and I am a wannabe game dev.
+
 ## About This Capsule
-This is a fairly personal space. I'm on Gemini because I miss a smaller, more personal web. Users are more than happy to share every detail of their life publicly, but they do so with the intention of becoming an 'influencer', even average everyday people are encouraged to build a brand presence.
-This is not a location for me to build a brand, or a following, this is a space for me to share my thoughts and if others can relate or enjoy reading them, great! I'll be sharing gamedev projects, thoughts on anything and everything, and even the occasional photo here, so feel free to check back regularly and subscribe to my gemlog feed.
+I am a fan of a smaller web, a more personal one. If you are viewing this page on the web, I highly recommend giving Gemini a try. It's all about a collection of smaller, text-focused sites rather than large, cumbersome applications. If you're already on Gemini, welcome!
+When it comes to game dev, I am a Dragon Rider. Look below for a link to DragonRuby. I'm still very new to game development, but DragonRuby is the first time of my many attempts that making a game was actually *fun* enough to stick with! The community is super helpful and friendly, Ic an't recommend it enough!
+By day, I work in Linux SysOps at a large private cloud provider. I am quite well-versed in Linux, and what I don't know, I know how to find out. If you think I'm cool and want to talk, find my email below.
 
 ### My Links
 => gemlog/ 📔 Gemlog
 
 => https://git.sr.ht/~alicevie/ 💻 My Code
 => https://grandma.space/@alicevie 🗨 My Social
+=> https://itch.io/alicevie 🎮 My Games
+
+=> mailto:me@alicevie.space ✉ Email Me
 
 ### Other Links
+=> https://dragonruby.org/toolkit/game 🐉 DragonRuby
+
 => gemini://gemini.circumlunar.space/ Official Gemini Webpage
 => gemini://skyjake.fi/lagrange/ Lagrange, My Recommended Gemini Browser

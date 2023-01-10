@@ -4,7 +4,7 @@
   <subtitle>Where I talk about stuff.</subtitle>
   <link rel='self' href='gemini://alicevie.space/gemlog/atom.xml'/>
   <link rel='alternate' href='gemini://alicevie.space/gemlog/index.gmi'/>
-  <updated>2023-01-09T20:39:56-0600</updated>
+  <updated>2023-01-09T21:19:07-0600</updated>
   <author>
     <name>Alice Vollink</name>
     <email>me@alicevie.space</email>
@@ -15,9 +15,9 @@
   <rights>© Alice Vollink - CC BY 4.0</rights>
 
   <entry>
-    <title>Falling Back In Love With Minecraft</title>
-    <id>gemini://alicevie.space/gemlog/2022-06-05-falling-back-in-love.gmi</id>
-    <link rel='alternate' href='gemini://alicevie.space/gemlog/2022-06-05-falling-back-in-love.gmi'/>
-    <updated>2022-06-05T12:00:00-0600</updated>
+    <title>My first game.</title>
+    <id>gemini://alicevie.space/gemlog/2023-01-09-my-first-game.gmi</id>
+    <link rel='alternate' href='gemini://alicevie.space/gemlog/2023-01-09-my-first-game.gmi'/>
+    <updated>2023-01-09T12:00:00-0600</updated>
   </entry>
 </feed>

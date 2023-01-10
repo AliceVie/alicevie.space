@@ -1,0 +1,11 @@
+#My first game.
+
+I have long tried many different ways of making games. I've used large engines such as Godot, Unity, and Unreal. I've used purpose-built frameworks like MonoGame, XNA, LOVE, and PyGame. I've even tried close to the metal low-level libraries like Raylib and Bevy.
+
+It wasn't until I was browsing my Itch.io purchases and stumbled across a license to DragonRuby in the Palestinian Aid Bundle that I finally found a way to make games that is fun for me. Everything just clicked, and effortlessly, I was rendering text and blinking it on screen within an hour. For reference, I had 0 Ruby knowledge up until this point, it's just that easy to learn. The Discord community was essential in getting me hooked, and helping me through some of the thinking involved in my first game.
+
+My first game is a Pong clone. That's it. I told myself Thursday that I would ship my Pong clone over the weekend, and so my goal was set. With a simple main menu already in place, on Saturday, I began working on switching between game states, rendering the ball and paddles, and implementing basic paddle movement. It was not long before I was beginning work on figuring out ball collisions. I ran into an interesting bug with my collision check where often times, the ball would strike the paddle and isntead of bouncing off, it would simply travel straight up or down. The Discord community proved helpful here, showing me a simple `intersect_rect?` method that made checking collisions far simpler. At the same time, I also changed a slight bug in the code that handled the ball bouncing off the paddle, and boom! Playable Pong clone.
+
+My first game is playable and public, but still needs work before I'm ready to call it finished. I would like to keep the paddles from traveling offscreen, add some SFX, and some basic VFX as well. I'd also like to add an ability to pause and resume the game. Check it out if you get the chance!
+
+=> https://itch.io/alicevie/superpong SuperPong: My First Game
