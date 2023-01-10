@@ -10,7 +10,7 @@ By day, I work in Linux SysOps at a large private cloud provider. I am quite wel
 => gemlog/ 📔 Gemlog
 
 => https://git.sr.ht/~alicevie/ 💻 My Code
-=> https://grandma.space/@alicevie 🗨 My Social
+=> https://peoplemaking.games/@alicevie 🗨 My Social
 => https://alicevie.itch.io/ 🎮 My Games
 
 => mailto:me@alicevie.space ✉ Email Me
