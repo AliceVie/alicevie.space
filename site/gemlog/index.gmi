@@ -11,7 +11,6 @@
 
 => / 🏠
 
-=> gemini://alicevie.space/gemlog/atom.xml 🗞
-=> https://alicevie.space/gemlog/atom.xml 📰
+=> gemini://alicevie.space/gemlog/atom.xml 📰
 
 => https://git.sr.ht/~nytpu/gemlog.sh generated with gemlog.sh
